@@ -1,2 +1,4 @@
 Hi My Name is Vivek I am learnign 
 git is a Very useful tool in a development
+
+I think everyone should lear n basic git
